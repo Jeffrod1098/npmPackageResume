@@ -1,0 +1,1 @@
+Here I made my first npm package, which is just my resume, with info like skills, contact info, and technologies im familiar with.

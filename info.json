@@ -1,0 +1,20 @@
+{
+    "name": "Jeffrey Rodriguez",
+    "website": "https://jeff1098.github.io/",
+    "linkedin": "https://www.linkedin.com/in/jeff1098/",
+    "github": "jeff1098",
+    "email": "mrjeffrey1011@gmail.com",
+    "resume": "N/a",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Node",
+        "Express",
+        "Mongodb"
+    ],
+    "otherSkills": [
+        "Fluent Spanish Speaker",
+        "Works well under pressure",
+        "Can flip a pancake with just the pan"
+    ]
+}
